@@ -4,6 +4,10 @@ A full-stack web application for team project management with role-based access 
 
 ![TaskFlow](https://img.shields.io/badge/TaskFlow-v1.0-6366f1?style=for-the-badge)
 
+## 🌐 Live Demo
+
+[Visit the live application](https://team-task-manager-production-f6c7.up.railway.app)
+
 ## 🚀 Features
 
 - **Authentication** — Secure signup/login with JWT tokens
