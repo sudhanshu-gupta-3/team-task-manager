@@ -3,6 +3,10 @@
 A full-stack web application for team project management with role-based access control. Create projects, assign tasks, track progress, and collaborate with your team.
 
 ![TaskFlow](https://img.shields.io/badge/TaskFlow-v1.0-6366f1?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Railway-blueviolet?style=for-the-badge&logo=railway)](https://team-task-manager-production-f6c7.up.railway.app)
+
+### 🌐 [Live Demo → https://team-task-manager-production-f6c7.up.railway.app](https://team-task-manager-production-f6c7.up.railway.app)
+
 
 ## 🚀 Features
 
@@ -140,8 +144,7 @@ team-task-manager/
 │   │   ├── dependencies.py
 │   │   └── main.py
 │   └── requirements.txt
-├── railway.toml
-├── nixpacks.toml
+├── Dockerfile
 └── README.md
 ```
 
